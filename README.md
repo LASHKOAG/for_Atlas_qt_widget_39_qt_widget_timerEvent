@@ -1,0 +1,1 @@
+# for_Atlas_qt_widget_39_qt_widget_timerEvent
